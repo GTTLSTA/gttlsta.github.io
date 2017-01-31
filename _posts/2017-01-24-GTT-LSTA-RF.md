@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Random Forest for Regression of a Censored Variable (Yohann Le Faou) 
+title: Random Forest for Regression of a Censored Variable (Yohann Le Faou)
 category: GTT-LSTA 
-tags: stats GTT-LSTA
+tags: stats RF survie  
 ---
 
 ## Tutoriel : Sur l&#39;analyse de surevie et la forêt aléatoire dans le cas de données non censurées
@@ -34,4 +34,5 @@ tags: stats GTT-LSTA
   réelles et sur données simulées
 
 
-[Download slide](https://mgimm.github.io/public/pdf/Slides___Random_Forest_for_regression_of_a_censored_variable.pdf)
+[Download slides](https://gttlsta.github.io/public/pdf/Slides___Random_Forest_for_regression_of_a_censored_variable.pdf)
+

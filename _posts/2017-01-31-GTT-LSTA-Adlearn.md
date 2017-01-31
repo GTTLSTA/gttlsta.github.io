@@ -2,7 +2,7 @@
 layout: post
 title: Agrégation d'Experts & AdLearn (Vincent Margot) 
 category: GTT-LSTA 
-tags: stats GTT-LSTA 
+tags: AdLearn ensemble 
 ---
 
 ## Agrégation d&#39;Experts
