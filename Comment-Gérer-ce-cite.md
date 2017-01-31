@@ -66,7 +66,7 @@ Il faut les mettre dans ./public/imgs et ./public/pdf
 
 par ex.
 
-$$I = \int_0^{\infty} f(x)\mathrm{d}x$$
+$$I = \int_0^{\infty} f(x)dx$$
 
 * code block
 
