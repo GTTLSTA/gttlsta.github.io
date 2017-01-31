@@ -18,10 +18,10 @@ author:
   url:            http://gttlsta.github.io
   gravatar:       https://gttlsta.github.io/public/favicon.jpeg 
   photo:          https://gttlsta.github.io/public/favicon.jpeg
-  introduction:   "Merci de la replacer par une figure plus jolie."
+  introduction:   "GTT-LSTA"
 
 paginate:         5
-paginate_path:    '/archive/page:num'
+paginate_path:    '/blog/page:num'
 
 # Custom vars
 version:          1.0.0
