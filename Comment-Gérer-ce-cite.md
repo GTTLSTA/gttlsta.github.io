@@ -83,3 +83,23 @@ plot(x,f(x))
 
 {% endhighlight%}
 
+## Sur Jekyll 
+
+Pour essayer localement sur votre maschine, il faut installer [jekyll](https://jekyllrb.com/)
+
+S'il y a des gems manquant, vous pouvez les installer facilement par
+
+```
+sudo gem install nom-de-gem-manquant
+```
+
+Pour Ubuntu, peut-être il faut aussi installer la dependance
+
+```
+sudo apt install ruby-dev
+```
+
+S'il y a des problèmes, n'hésitez pas de me voir.
+
+
+Qiming
