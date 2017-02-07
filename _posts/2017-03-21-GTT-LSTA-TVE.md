@@ -1,8 +1,9 @@
 ---
 layout: post
-title: TVE (Emilie Miranda)
+title: TVE
 category: GTT-LSTA 
 tags: TVE  
+author: Emilie Miranda 
 ---
 
 ## Titre 1

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: CoxTV (Thibault ALLART)
+title: CoxTV
 category: GTT-LSTA 
 tags: Survival Cox Longitudinal Time-Varying
+author: Thibault ALLART
 ---
 
 ## An alyse des données longitudinales issues des jeux vidéo.

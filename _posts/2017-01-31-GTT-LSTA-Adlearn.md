@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Agrégation d'Experts & AdLearn (Vincent Margot) 
+title: Agrégation d'Experts & AdLearn 
 category: GTT-LSTA 
 tags: AdLearn ensemble 
+author: Vincent Margot
 ---
 
 ## Agrégation d&#39;Experts
